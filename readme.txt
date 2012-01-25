@@ -11,8 +11,6 @@ This plugin is a simple widget with slider that rotates through posts of specifi
 
 This plugin is a simple widget with slider that rotates through posts of specified category.
 
-<img src="http://picturestack.com/527/287/HrYScreenShotPT0.png" />
-
 I'll add more screenshots and docs later... probably even a video tutorial! :). Busy, busy!
 
 == Installation ==
