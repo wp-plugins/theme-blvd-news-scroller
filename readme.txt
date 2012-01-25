@@ -18,6 +18,11 @@ I'll add more screenshots and docs later... probably even a video tutorial! :). 
 1. Upload `theme-blvd-news-scroller` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Screenshots ==
+
+1. Frontend view in sidebar.
+2. Backend view in Appearance > Widgets after placing in sidebar.
+
 == Changelog ==
 
 = 1.0.0 =
