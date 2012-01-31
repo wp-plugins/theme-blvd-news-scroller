@@ -170,7 +170,7 @@ class TB_Widget_News_Scroller extends WP_Widget {
 				$options = array( 'show', 'hide' );
 				foreach ( $options as $option ) {
 					$selected = "";
-					if($option == $instance['excerpt']) $selected = 'selected="selected"';
+					if($option == $instance['image']) $selected = 'selected="selected"';
 					$list .= "<option $selected value='$option'>$option</option>";
 				}
 				echo $list;
